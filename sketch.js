@@ -29,7 +29,7 @@ background(220);
 
 //jump when the space button is pressed
 if (keyDown("space")) {
-  trex.velocityY = -10;
+  trex.velocityY = -12;
 }
 
 trex.velocityY = trex.velocityY + 0.8
